@@ -1,4 +1,7 @@
-### Hi there 👋
+### Explorer 👋
+
+- 🔭 I’m currently working on a queue system
+- 🌱 I’m currently learning K8s
 
 <!--
 **Sam-Lin-MillersLab/Sam-Lin-MillersLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
